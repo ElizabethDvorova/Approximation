@@ -1,0 +1,10 @@
+C:\Users\Super\Desktop\Чм\Approx\Approx\x64\Debug\Approx.vcxproj.AssemblyReference.cache
+C:\Users\Super\Desktop\Чм\Approx\Approx\x64\Debug\Approx.MyForm.resources
+C:\Users\Super\Desktop\Чм\Approx\Approx\x64\Debug\Approx.vcxproj.GenerateResource.cache
+C:\Users\User\Desktop\УНИВЕРСИТЕТ\2 курс\ЧМ\Approx\Approx\Approx\x64\Debug\Approx.vcxproj.AssemblyReference.cache
+C:\Users\User\Desktop\УНИВЕРСИТЕТ\2 курс\ЧМ\Approx\Approx\Approx\x64\Debug\Approx.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\УНИВЕРСИТЕТ\2 курс\ЧМ\Approx\Approx\Approx\x64\Debug\Approx.MyForm.resources
+C:\Users\User\Desktop\УНИВЕРСИТЕТ\2 курс\ЧМ\Approx\Approx\Approx\x64\Debug\Approx.vcxproj.GenerateResource.cache
+E:\УНИВЕРСИТЕТ\2 курс\ЧМ\Approx\Approx\Approx\x64\Debug\Approx.vcxproj.AssemblyReference.cache
+E:\УНИВЕРСИТЕТ\2 курс\ЧМ\Approx\Approx\Approx\x64\Debug\Approx.MyForm.resources
+E:\УНИВЕРСИТЕТ\2 курс\ЧМ\Approx\Approx\Approx\x64\Debug\Approx.vcxproj.GenerateResource.cache
